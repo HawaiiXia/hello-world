@@ -2,6 +2,7 @@
 
 #define AD7768_CRC8_POLYNOMIAL_REPRESENTATION 0x07 /* x8 + x2 + x + 1 */
 
+adbc_cc
 unsigned char AD7768_ComputeCRC8(unsigned long * pBuf, unsigned short bufSize)
 {
 	unsigned long i = 0;
