@@ -1,8 +1,9 @@
 # hello-world
 
-how are you
 
 fine, thank you
+
+delete how are you
 
 just for test
 
