@@ -5,6 +5,8 @@ fine, thank you
 
 delete how are you
 
+add let's play
+
 just for test
 
 i am readme , edit at 2017/2/4 5:34
